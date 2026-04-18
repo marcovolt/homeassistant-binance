@@ -10,25 +10,26 @@
           "api_key": "API Key",
           "api_secret": "API Secret",
           "domain": "domain",
-          "native_currency": "Native Currency (default: USDT)",
+          "native_currency": "Native Currency (default: EUR)",
           "enable_earn": "Enable Earn",
           "enable_balances": "Enable Balances",
           "enable_exchanges": "Enable Exchanges",
-          "enable_fundings": "Activer les Soldes de Financement"
+          "enable_funding": "Enable Funding Balances",
+          "min_native_value": "Hide assets below value (EUR)"
         }
       },
       "balances": {
         "title": "Balances Configuration",
         "description": "Configure your balance preferences.",
         "data": {
-          "balances": "Balance Details"
+          "balances": "Optional asset whitelist"
         }
       },
       "exchanges": {
         "title": "Exchanges Configuration",
         "description": "Configure your exchange preferences.",
         "data": {
-          "exchanges": "Exchange Details"
+          "exchanges": "Optional exchange whitelist"
         }
       }
     }
@@ -38,13 +39,15 @@
       "init": {
         "title": "Options for Binance Integration",
         "data": {
-          "domain": "domain",
+          "domain": "Domain",
           "native_currency": "Native Currency",
-          "enable_balances": "Enable Balances",
+          "enable_earn": "Enable Earn",
+          "enable_balances": "Enable Spot Balances",
           "enable_exchanges": "Enable Exchanges",
-          "enable_fundings": "Enable Fundings Balances",
-          "balances": "List of Balances",
-          "exchanges": "List of Exchanges"
+          "enable_funding": "Enable Funding Balances",
+          "balances": "Optional asset whitelist",
+          "exchanges": "Optional exchange whitelist",
+          "min_native_value": "Hide assets below value (EUR)"
         }
       }
     }
