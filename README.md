@@ -87,9 +87,6 @@ This fork uses cleaner entity IDs such as:
 ### Automatically detected portfolio assets
 ![Detected assets](docs/images/entities-overview.png)
 
-### Dashboard example
-![Dashboard example](docs/images/dashboard-example.png)
-
 ### Integration options
 ![Options](docs/images/options-example.png)
 
