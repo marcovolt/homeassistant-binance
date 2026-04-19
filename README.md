@@ -1,4 +1,4 @@
-# ₿₿₿ ![Binance](asset/icon-bitcoin.png) Home Assistant Binance — MarcoVolt Fork
+# ![bitcoin icon](docs/assets/icon-bitcoin.png) Home Assistant Binance — MarcoVolt Fork
 
 ## 🌟 Main benefit
 
