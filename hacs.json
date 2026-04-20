@@ -1,6 +1,5 @@
 {
   "name": "Home Assistant Binance",
   "render_readme": true,
-  "country": "IT",
   "homeassistant": "2024.1.0"
 }
