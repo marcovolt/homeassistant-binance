@@ -9,6 +9,7 @@
   "documentation": "https://github.com/marcovolt/homeassistant-binance",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/marcovolt/homeassistant-binance/issues",
+  "integration_type": "service",
   "requirements": [
     "python-binance==1.0.19"
   ],
