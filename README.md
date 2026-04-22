@@ -170,6 +170,8 @@ This fork builds on that work and focuses on automation, EUR valuation, and dash
 
 ## ☕ Support
 
-If this project saved you time or improved your Home Assistant setup, you can support it here:
+If this project is useful to you or improved your Home Assistant setup, you can support it here:
+
+[Donate with Bitcoin / Crypto](./DONATE.md)
 
 [Ko-fi / Buy me a coffee](https://ko-fi.com/marcovolt18)
